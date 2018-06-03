@@ -1,3 +1,5 @@
+//program takes one string in the argument line 
+//you can choose what to do with it
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
